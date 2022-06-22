@@ -1,0 +1,279 @@
+*{
+padding:0;
+margin:0;   
+margin-right: auto;
+margin-left: auto;
+}
+
+body{
+background: #e3e3e3;
+font-family: Calibri, sans-serif;
+}
+
+#header{
+width: 100%;
+height: 120px;
+background-color:#ffffff;
+}
+
+.header-blok1{
+width: 960px;
+height: 60px;
+background-color:#ffffff;
+}
+.header-blok2{
+height: 60px;
+background-color:#0078d7;
+}
+
+#tools{
+width: 960px;
+height: 30px;
+background-color:#ffffff;
+}
+
+#tools ul{
+list-style-type: none;
+line-height:30px;
+float: right;	
+}
+#tools  ul  li{
+display: inline-block;
+padding: 0 10px;
+}
+#tools  ul  li  a{
+text-decoration: none;
+}
+
+#tools  ul  li  a:hover{
+color: red;
+}
+
+/******************************************************************************/
+/* MENI BAR*/
+
+#meni{
+width: 960px;
+height: 60px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#meni ul{
+list-style-type: none;
+line-height:60px;
+}
+
+#meni  ul  li{
+display: inline-block;
+padding: 0 20px;
+color: white;
+font-weight: bold;
+transition:background 0.5s;
+}
+
+#meni  ul  li:hover {
+background: #2f2f2f;
+}
+
+#meni  ul  li  a{
+text-decoration: none;
+color: #ffffff;
+}
+
+/******************************************************************************/
+
+#body{
+//margin-top: 30px;
+width: 960px;
+//height: 620px;
+background:#ffffff;
+}
+
+#body-products{
+//border: 1px black solid;
+overflow: hidden;
+//border-bottom: 1px solid #ccc;
+background:#fff;
+box-shadow: 0 0 7px 5px rgba(0,0,0,0.1);
+}
+
+.product{
+background:#fff;
+float:left;
+width:310px;
+height: 230px;
+margin:5px 5px 4px 4px;
+padding: 10px;
+box-sizing: border-box;
+border: 1px #0078d7 dotted;
+}
+
+
+
+
+/******************************************************************************/
+
+#footer{
+margin-top: 30px;
+width: 100%;
+height: 250px; 
+//background:url("../images/pattern.png"); 
+background-color:#0078d7;
+}
+
+#footer01{
+margin-right: auto;
+margin-left: auto;
+width:970px;	
+}
+.footer-blok{
+color: #ffffff;
+float:left;
+height: 240px;
+width: 313px;
+margin: 5px 5px;
+padding:10px;
+box-sizing:border-box; 
+}
+
+/******************************************************************************************/
+
+#social-network{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+line-height: 40px; 
+}
+
+/*****************************************************************************************/
+/* login.html, register.html */
+.table{
+background-color: #ffffff;
+margin-top: 150px;
+padding: 10px;
+border: 1px #0078d7 dotted;
+}
+
+
+/******************************************************************************************/
+/* korpa.html */
+
+.table-korpa{
+margin-top: 30px;
+width: 1020px;
+margin-left: auto;
+margin-right: auto;
+border-collapse: collapse;    	
+}
+
+.row{
+background-color: #0078d7;
+color: #ffffff;
+text-align: center;
+}
+
+.row td{
+border-right:1px white dotted;   
+}
+
+
+.row-product td{
+border:1px #0078d7 dotted;
+text-align: center;
+}
+
+.div-row{
+width: 1020px;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;	
+background-color: #0078d7;
+text-align: center;
+}
+
+/******************************************************************************************/
+
+.button{
+background-color: #0078d7;
+color: #ffffff;
+padding: 5px;
+border-radius: 5px;
+}
+
+.button2{
+background-color: #ffffff;
+color: #0078d7;
+padding: 5px;
+margin: 5px;
+border-radius: 5px;
+}
+
+
+
+a{
+text-decoration: none;
+}
+a:link {
+    color: #0078d7;
+}
+
+a:visited {
+    color: #0078d7;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
+
+/******************************************************************************************/
+/* dodaj proizvod */
+
+.textarea{
+height: 90px;
+}
+
+
+/******************************************************************************************/
+
+#tabela-konfigurator{
+margin-bottom: 150px;
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+border-collapse: collapse;
+}
+
+#tabela-konfigurator td{ 
+border-right:1px #0078d7 dotted;
+padding: 5px;
+}
+
+#tabela-konfigurator select{
+width: 420px;
+}
+
+#prvi-red{
+background-color: #0078d7;
+color: #ffffff;
+text-align: center;
+}
+
+#prvi-red td{
+border-right:1px white dotted;   
+}
+
+#poslednji-red{
+background-color: #0078d7;
+color: #ffffff; 
+}
+
+
+
+h1{
+color:#0078d7;
+}
