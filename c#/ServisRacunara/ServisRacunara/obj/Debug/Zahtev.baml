@@ -1,0 +1,38 @@
+ a Contributor which are necessarily infringed by the use
+or sale of its Contribution alone or when combined with the Program. </span></p>
+
+<p><span style='font-size:10.0pt'>&quot;Program&quot; means the Contributions
+distributed in accordance with this Agreement.</span> </p>
+
+<p><span style='font-size:10.0pt'>&quot;Recipient&quot; means anyone who
+receives the Program under this Agreement, including all Contributors.</span> </p>
+
+<p><b><span style='font-size:10.0pt'>2. GRANT OF RIGHTS</span></b> </p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:10.0pt'>a)
+Subject to the terms of this Agreement, each Contributor hereby grants Recipient
+a non-exclusive, worldwide, royalty-free copyright license to<span
+style='color:red'> </span>reproduce, prepare derivative works of, publicly
+display, publicly perform, distribute and sublicense the Contribution of such
+Contributor, if any, and such derivative works, in source code and object code
+form.</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:10.0pt'>b)
+Subject to the terms of this Agreement, each Contributor hereby grants
+Recipient a non-exclusive, worldwide,<span style='color:green'> </span>royalty-free
+patent license under Licensed Patents to make, use, sell, offer to sell, import
+and otherwise transfer the Contribution of such Contributor, if any, in source
+code and object code form. This patent license shall apply to the combination
+of the Contribution and the Program if, at the time the Contribution is added
+by the Contributor, such addition of the Contribution causes such combination
+to be covered by the Licensed Patents. The patent license shall not apply to
+any other combinations which include the Contribution. No hardware per se is
+licensed hereunder. </span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:10.0pt'>c)
+Recipient understands that although each Contributor grants the licenses to its
+Contributions set forth herein, no assurances are provided by any Contributor
+that the Program does not infringe the patent or other intellectual property
+rights of any other entity. Each Contributor disclaims any liability to Recipient
+for claims brought by any other entity based on infringement of intellectual
+property rights or oth
