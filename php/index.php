@@ -10,7 +10,7 @@ include 'php/akcije.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" CONTENT="PC,shop,desktop,racunari,kupi">
         <meta name="description" CONTENT="PC shop, desktop racunari">
-        <link rel="shortcut icon" href="images/ikonica.ico"><!--DODAVAJNE IKONICE-->
+        <link rel="shortcut icon" href="images/ikonica.ico">
         <link rel="stylesheet" type="text/css"  href="css/style.css">
         <script type="text/javascript" src="js/validacije.js"></script>
         <link rel="stylesheet" type="text/css"  href="css/jquery.bxslider.css">
